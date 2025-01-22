@@ -6,7 +6,7 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 
 from union_rep_assistant.brain import UnionRep
 from union_rep_assistant.ui.validation import is_valid_api_key
-
+from union_rep_assistant.constants import PDF_PATH
 
 def initialize_union_rep(openai_api_key):
     LLM = ChatOpenAI(model="gpt-4o-mini", temperature=0, openai_api_key=openai_api_key)
@@ -43,7 +43,8 @@ if not is_valid_api_key(openai_api_key):
 union_rep = initialize_union_rep(openai_api_key)
 
 # Streamlit UI
-st.title("💬 Union Rep Helper")
+st.title("💬 Union Rep Assistant") #TODO: should probably say its for a specific contract 
+st.caption(f"using data source:  {str(PDF_PATH)}")
 
 # Initialize Session State for Chat History
 if "messages" not in st.session_state:
