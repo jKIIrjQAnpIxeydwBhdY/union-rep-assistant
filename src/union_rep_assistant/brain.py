@@ -11,8 +11,6 @@ logging.basicConfig(level=logging.INFO)
 logger = logger = logging.getLogger(__name__)
 
 
-
-
 class Response(BaseModel):
     response: str = Field(description="LLM response")
     source_text: str = Field(
@@ -63,10 +61,7 @@ class UnionRep:
         logger.info("question asked: %s", query)
         context = self._retriever.invoke(query)
         logger.info("context provided to question: %s", context)
-        response = self._chain_with_message_history.invoke(
-            {"context": context, "question": query, "chat_history": self._chat_history},
-            {"configurable": {"session_id": "unused"}},
-        )
+        response = self._rag_chain.invoke({"context": context, "question": query})
 
         # Escape special Markdown characters
         def escape_markdown(text: str) -> str:
