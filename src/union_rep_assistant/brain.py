@@ -1,6 +1,7 @@
 import logging
 from pathlib import Path
 
+from pydantic import BaseModel, Field
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
@@ -9,12 +10,15 @@ from langchain_community.vectorstores import FAISS
 logging.basicConfig(level=logging.INFO)
 logger = logger = logging.getLogger(__name__)
 
-from pydantic import BaseModel, Field
+
+
 
 class Response(BaseModel):
     response: str = Field(description="LLM response")
-    source_text: str = Field(description="original text from union contract that informated LLM response")
-    page_no: int  = Field(description="meta data page_no for source_text")
+    source_text: str = Field(
+        description="original text from union contract that informated LLM response"
+    )
+    page_no: int = Field(description="meta data page_no for source_text")
 
 
 class UnionRep:
@@ -31,7 +35,8 @@ class UnionRep:
             allow_dangerous_deserialization=True,
         )
         self._retriever = self._vector_store.as_retriever(search_kwargs={"k": top_k})
-        self._prompt = self._prompt = ChatPromptTemplate.from_template("""You are a helpful assistant that answers questions related to the union contract.
+        self._prompt = self._prompt = (
+            ChatPromptTemplate.from_template("""You are a helpful assistant that answers questions related to the union contract.
             Answer the question based on the following context and prior conversation history:
 
             Context:
@@ -50,6 +55,7 @@ class UnionRep:
             - The original text from the context (`source_text`)
             - The page number for the source text (`page_no`) if available.
             """)
+        )
 
         self._rag_chain = self._prompt | self._llm
 
@@ -65,7 +71,7 @@ class UnionRep:
         # Escape special Markdown characters
         def escape_markdown(text: str) -> str:
             return text.replace("$", "\\$").replace("*", "\\*").replace("_", "\\_")
-        
+
         formatted_response = (
             f"Here’s what I found:\n\n"
             f"{escape_markdown(response.response)}\n\n"
@@ -74,4 +80,3 @@ class UnionRep:
         )
 
         return formatted_response
-
