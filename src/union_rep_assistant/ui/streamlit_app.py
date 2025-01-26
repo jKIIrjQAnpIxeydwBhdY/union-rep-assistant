@@ -1,24 +1,15 @@
-from pathlib import Path
+# TODO: https://docs.streamlit.io/develop/concepts/connections/secrets-management
+# TODO: https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/secrets-management
+#  add secret management.  The point is to send a link and the person can use it.
+
 
 import streamlit as st
-from langchain_community.vectorstores import FAISS
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langgraph.checkpoint.memory import MemorySaver
+from langgraph.graph import START, MessagesState, StateGraph
 
 from union_rep_assistant.brain import UnionRep
 from union_rep_assistant.ui.validation import is_valid_api_key
-from union_rep_assistant.constants import PDF_PATH
-
-def initialize_union_rep(openai_api_key):
-    LLM = ChatOpenAI(model="gpt-4o-mini", temperature=0, openai_api_key=openai_api_key)
-    EMBEDDINGS = OpenAIEmbeddings(openai_api_key=openai_api_key)
-
-    base_path = Path(__file__).parent  # assumes faiss will always be here
-    cached_vector_store = FAISS.load_local(
-        base_path / "faiss_index", EMBEDDINGS, allow_dangerous_deserialization=True
-    )
-
-    union_rep = UnionRep(cached_vector_store, LLM)
-    return union_rep
+from union_rep_assistant.constants import SECURITY_CONTRACT_PATH
 
 
 # Streamlit Sidebar for API Key
@@ -29,7 +20,7 @@ with st.sidebar:
         type="password",
     )
     st.markdown("[Get an OpenAI API key](https://platform.openai.com/account/api-keys)")
-
+# TODO: need to figure out how to add secrets because I want to just pass this chat to charles.
 
 # Check if API Key is Entered
 if not openai_api_key:
@@ -40,11 +31,13 @@ if not is_valid_api_key(openai_api_key):
     st.stop()
 
 
-union_rep = initialize_union_rep(openai_api_key)
+union_rep = UnionRep(
+    model="gpt-4o-mini", temperature=0, openai_api_key=openai_api_key, top_k=3
+)
 
 # Streamlit UI
-st.title("💬 Union Rep Assistant") #TODO: should probably say its for a specific contract 
-st.caption(f"using data source:  {str(PDF_PATH)}")
+st.title("💬 Union Rep Assistant")
+st.caption(f"using data source:  {str(SECURITY_CONTRACT_PATH)}")
 
 # Initialize Session State for Chat History
 if "messages" not in st.session_state:
@@ -69,3 +62,5 @@ if user_input := st.chat_input():
         st.chat_message("assistant").write(response)
     except Exception as e:
         st.error(f"Error: {str(e)}")
+
+# TODO: error handling for when api key has run out of money?
