@@ -1,17 +1,106 @@
+import logging
+from pathlib import Path
+
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
+from langgraph.graph import MessagesState, StateGraph, START, END
+from langchain_core.messages import HumanMessage, SystemMessage, BaseMessage
+from langchain_core.runnables.history import RunnableWithMessageHistory
+from langchain_community.chat_message_histories import ChatMessageHistory
+
+logging.basicConfig(level=logging.INFO)
+logger = logger = logging.getLogger(__name__)
+
+from pydantic import BaseModel, Field
+
+class Response(BaseModel):
+    response: str = Field(description="LLM response")
+    source_text: str = Field(description="original text from union contract that informated LLM response")
+    page_no: int  = Field(description="meta data page_no for source_text")
 
 
 class UnionRep:
-    def __init__(self, vector_store, llm):
-        self.vector_store = vector_store
-        self.llm = llm
-        self.retriever = vector_store.as_retriever(search_kwargs={"k": 3})
-        self.prompt = ChatPromptTemplate.from_template("""Answer the question based only on the following context:
+    def __init__(
+        self, model: str, temperature: int, openai_api_key: str, top_k: int = 3
+    ):
+        self._llm = ChatOpenAI(
+            model=model, temperature=temperature, openai_api_key=openai_api_key
+        ).with_structured_output(Response)  # TODO: should I set a max tokens?
+        self._embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
+        self._vector_store = FAISS.load_local(
+            Path(__file__).parent / "faiss_index",
+            self._embeddings,
+            allow_dangerous_deserialization=True,
+        )
+        self._retriever = self._vector_store.as_retriever(search_kwargs={"k": top_k})
+        # self._prompt = ChatPromptTemplate.from_template("""Answer the question based only on the following context:
+        #         {context} 
+        #         ChatHistory: {chat_history}
+        #         Question: {question}
+                                                        
+        #         If the question is unrelated to the union contract, respond with: 
+        #         source_text = N/A
+        #         page_no = N/A
+        #         "This assistant is designed to answer questions related to the union contract. Please ask a question about the union contract."
+
+                                                                                                
+        #         Your response should include:
+        #         - A summary of the answer (`response`)
+        #         - The original text from the context (`source_text`)
+        #         - The page number for the source text (`page_no`)
+        #         """)
+        self._prompt = self._prompt = ChatPromptTemplate.from_template("""You are a helpful assistant that answers questions related to the union contract.
+            Answer the question based on the following context and prior conversation history:
+
+            Context:
             {context}
-            Question: {question}
+
+            Conversation History:
+            {chat_history}
+
+            Current Question:
+            {question}
+
+            If the question is unrelated to the union contract, respond with:
+            - response: "This assistant is designed to answer questions related to the union contract. Please ask a question about the union contract."
+            - source_text: "N/A"
+            - page_no: "N/A"
+
+            Your response should include:
+            - A summary of the answer (`response`)
+            - The original text from the context (`source_text`)
+            - The page number for the source text (`page_no`) if available.
             """)
-        self.rag_chain = self.prompt | self.llm
+
+        self._chat_history = ChatMessageHistory()
+        self._rag_chain = self._prompt | self._llm
+        self._chain_with_message_history = RunnableWithMessageHistory(
+            self._rag_chain,
+            lambda session_id: self._chat_history,
+            input_messages_key="question",
+            history_messages_key="chat_history",
+        )  # this approach isn't deprecaited and langchain says not plan to deprecate but langgraph is recommended instead.
 
     def ask(self, query: str) -> str:
-        context = self.retriever.invoke(query)
-        return self.rag_chain.invoke({"context": context, "question": query}).content
+        logger.info("question asked: %s", query)
+        context = self._retriever.invoke(query)
+        logger.info("context provided to question: %s", context)
+        response = self._chain_with_message_history.invoke(
+            {"context": context, "question": query, "chat_history": self._chat_history},
+            {"configurable": {"session_id": "unused"}},
+        )
+
+        # Escape special Markdown characters
+        def escape_markdown(text: str) -> str:
+            return text.replace("$", "\\$").replace("*", "\\*").replace("_", "\\_")
+        
+        formatted_response = (
+            f"Here’s what I found:\n\n"
+            f"{escape_markdown(response.response)}\n\n"
+            f"**Source:** {escape_markdown(response.source_text)}\n\n"
+            f"**Contract Page Number:** {response.page_no}"
+        )
+
+        return formatted_response
+
