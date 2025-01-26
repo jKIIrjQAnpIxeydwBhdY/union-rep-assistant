@@ -4,10 +4,7 @@ from pathlib import Path
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
-from langgraph.graph import MessagesState, StateGraph, START, END
-from langchain_core.messages import HumanMessage, SystemMessage, BaseMessage
-from langchain_core.runnables.history import RunnableWithMessageHistory
-from langchain_community.chat_message_histories import ChatMessageHistory
+
 
 logging.basicConfig(level=logging.INFO)
 logger = logger = logging.getLogger(__name__)
@@ -34,30 +31,11 @@ class UnionRep:
             allow_dangerous_deserialization=True,
         )
         self._retriever = self._vector_store.as_retriever(search_kwargs={"k": top_k})
-        # self._prompt = ChatPromptTemplate.from_template("""Answer the question based only on the following context:
-        #         {context} 
-        #         ChatHistory: {chat_history}
-        #         Question: {question}
-                                                        
-        #         If the question is unrelated to the union contract, respond with: 
-        #         source_text = N/A
-        #         page_no = N/A
-        #         "This assistant is designed to answer questions related to the union contract. Please ask a question about the union contract."
-
-                                                                                                
-        #         Your response should include:
-        #         - A summary of the answer (`response`)
-        #         - The original text from the context (`source_text`)
-        #         - The page number for the source text (`page_no`)
-        #         """)
         self._prompt = self._prompt = ChatPromptTemplate.from_template("""You are a helpful assistant that answers questions related to the union contract.
             Answer the question based on the following context and prior conversation history:
 
             Context:
             {context}
-
-            Conversation History:
-            {chat_history}
 
             Current Question:
             {question}
@@ -73,14 +51,7 @@ class UnionRep:
             - The page number for the source text (`page_no`) if available.
             """)
 
-        self._chat_history = ChatMessageHistory()
         self._rag_chain = self._prompt | self._llm
-        self._chain_with_message_history = RunnableWithMessageHistory(
-            self._rag_chain,
-            lambda session_id: self._chat_history,
-            input_messages_key="question",
-            history_messages_key="chat_history",
-        )  # this approach isn't deprecaited and langchain says not plan to deprecate but langgraph is recommended instead.
 
     def ask(self, query: str) -> str:
         logger.info("question asked: %s", query)
