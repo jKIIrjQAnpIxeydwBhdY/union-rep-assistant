@@ -2,10 +2,6 @@ import logging
 from pathlib import Path
 
 from pydantic import BaseModel, Field
-import logging
-from pathlib import Path
-
-from pydantic import BaseModel, Field
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
