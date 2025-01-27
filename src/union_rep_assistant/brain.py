@@ -21,20 +21,6 @@ class Response(BaseModel):
         description="original text from union contract that informated LLM response"
     )
     page_no: int = Field(description="meta data page_no for source_text")
-from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-from langchain_community.vectorstores import FAISS
-
-
-logging.basicConfig(level=logging.INFO)
-logger = logger = logging.getLogger(__name__)
-
-
-class Response(BaseModel):
-    response: str = Field(description="LLM response")
-    source_text: str = Field(
-        description="original text from union contract that informated LLM response"
-    )
-    page_no: int = Field(description="meta data page_no for source_text")
 
 
 class UnionRep:
