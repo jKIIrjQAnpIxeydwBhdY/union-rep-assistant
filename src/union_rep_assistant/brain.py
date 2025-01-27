@@ -74,20 +74,3 @@ class UnionRep:
         )
 
         return formatted_response
-        logger.info("question asked: %s", query)
-        context = self._retriever.invoke(query)
-        logger.info("context provided to question: %s", context)
-        response = self._rag_chain.invoke({"context": context, "question": query})
-
-        # Escape special Markdown characters
-        def escape_markdown(text: str) -> str:
-            return text.replace("$", "\\$").replace("*", "\\*").replace("_", "\\_")
-
-        formatted_response = (
-            f"Here’s what I found:\n\n"
-            f"{escape_markdown(response.response)}\n\n"
-            f"**Source:** {escape_markdown(response.source_text)}\n\n"
-            f"**Contract Page Number:** {response.page_no}"
-        )
-
-        return formatted_response
