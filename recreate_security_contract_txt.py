@@ -24,10 +24,13 @@ def main():
     (SPLIT_CONTRACT_PATH / f"page_{i+1}").write_text(doc, encoding="utf-8")
 
   docs_with_page_number = [
-      Document(page_content=doc, metadata={"page_number": i + 1}) 
+      Document(page_content=doc, metadata={"page_number": i -1})  
+      # -1 is specific to this contract.  The reason for this is because
+      #  this contract has a title and table of contents which shouldn't count as pages.  With -1 
+      #  the page number of the document will reflect the page number in the contract. 
       for i, doc in enumerate(docs)
   ]
   vector_store = create_vector_store(docs_with_page_number, Path("src/union_rep_assistant/ui/faiss_index"))
 
-  if "__name__" == "__main__":
+if __name__ == "__main__":
     main()

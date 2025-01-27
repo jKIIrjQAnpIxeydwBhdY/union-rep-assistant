@@ -21,6 +21,7 @@ with st.sidebar:
 # TODO: need to figure out how to add secrets because I want to just pass this chat to charles.
 
 # Check if API Key is Entered
+openai_api_key = "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"
 if not openai_api_key:
     st.info("Please add your OpenAI API key to continue.")
     st.stop()
