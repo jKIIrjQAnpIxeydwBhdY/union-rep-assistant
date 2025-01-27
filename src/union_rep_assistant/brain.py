@@ -2,7 +2,25 @@ import logging
 from pathlib import Path
 
 from pydantic import BaseModel, Field
+import logging
+from pathlib import Path
+
+from pydantic import BaseModel, Field
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
+
+
+logging.basicConfig(level=logging.INFO)
+logger = logger = logging.getLogger(__name__)
+
+
+class Response(BaseModel):
+    response: str = Field(description="LLM response")
+    source_text: str = Field(
+        description="original text from union contract that informated LLM response"
+    )
+    page_no: int = Field(description="meta data page_no for source_text")
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 
@@ -57,6 +75,23 @@ class UnionRep:
         self._rag_chain = self._prompt | self._llm
 
     def ask(self, query: str) -> str:
+        logger.info("question asked: %s", query)
+        context = self._retriever.invoke(query)
+        logger.info("context provided to question: %s", context)
+        response = self._rag_chain.invoke({"context": context, "question": query})
+
+        # Escape special Markdown characters
+        def escape_markdown(text: str) -> str:
+            return text.replace("$", "\\$").replace("*", "\\*").replace("_", "\\_")
+
+        formatted_response = (
+            f"Here’s what I found:\n\n"
+            f"{escape_markdown(response.response)}\n\n"
+            f"**Source:** {escape_markdown(response.source_text)}\n\n"
+            f"**Contract Page Number:** {response.page_no}"
+        )
+
+        return formatted_response
         logger.info("question asked: %s", query)
         context = self._retriever.invoke(query)
         logger.info("context provided to question: %s", context)

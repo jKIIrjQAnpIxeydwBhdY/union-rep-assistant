@@ -7,7 +7,7 @@ from langchain.schema import Document
 from union_rep_assistant.utils import generate_contract_text, create_vector_store
 
 
-PAGE_OFFSET = 1
+PAGE_OFFSET = 1 # page offset is 1 because index zero 
 
 def main():
   LLM = ChatOpenAI(model="gpt-4o-mini", temperature=0, openai_api_key=os.getenv("OPENAI_API_KEY")) # will require setting this env.
@@ -32,9 +32,6 @@ def main():
       Document(page_content=doc, metadata={"page_number": i+ PAGE_OFFSET})  
       for i, doc in enumerate(docs)
   ]
-    # i-3 is specific to this contract.  The reason for this is because
-      #  this contract has a title and table of contents which shouldn't count as pages.  With -1 
-      #  the page number of the document will reflect the page number in the contract. 
   vector_store = create_vector_store(docs_with_page_number,VECTOR_STORE_PATH)
 
 if __name__ == "__main__":
