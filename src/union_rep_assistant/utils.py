@@ -33,8 +33,9 @@ def pdf_page_to_base64(pdf_path: Path) -> list[str]:
     """
     pdf_document = pymupdf.open(pdf_path)
     pdf_images = []
+    print(f"length of pdf: {len(pdf_document)}")
     for page_index in range(len(pdf_document)):
-        page = pdf_document.load_page(page_index - 1)  # input is one-indexed
+        page = pdf_document.load_page(page_index)
         pix = page.get_pixmap()
         img = Image.frombytes("RGB", (pix.width, pix.height), pix.samples)
         buffer = io.BytesIO()
@@ -96,6 +97,7 @@ def save_ocr_output(save_path: Path, ocr: list[str], delimiter="||") -> None:
 
 def generate_contract_text(pdf_path: Path, save_path: Path, llm) -> list[str]:
     b64images = pdf_page_to_base64(pdf_path)
+    b64images = b64images[2:]  # ignore the cover and table of contents.
     docs = [get_pdf_text(llm, img) for img in b64images]
     # takes around 10 minutes
     save_ocr_output(save_path, docs, "||")

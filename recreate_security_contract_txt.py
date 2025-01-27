@@ -7,7 +7,7 @@ from langchain.schema import Document
 from union_rep_assistant.utils import generate_contract_text, create_vector_store
 
 
-PAGE_OFFSET = 0
+PAGE_OFFSET = 1
 
 def main():
   LLM = ChatOpenAI(model="gpt-4o-mini", temperature=0, openai_api_key=os.getenv("OPENAI_API_KEY")) # will require setting this env.
