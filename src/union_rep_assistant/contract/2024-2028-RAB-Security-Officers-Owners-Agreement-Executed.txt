@@ -1,64 +1,16 @@
 over pay arising from or relating to such payments, shall be subject to the grievance and arbitration provisions of the collective bargaining agreement including, without limitation, any wage and hour claim.
 
-Sincerely,  
+Sincerely,
+
 Howard Rothschild  
 President, RAB
 
-AGREED:  
+AGREED:
+
 Manny Pastreich  
 President, SEIU, Local 32BJ
 
-60||2024  
-SECURITY OFFICERS  
-OWNERS AGREEMENT  
-
-BETWEEN  
-
-REALTY ADVISORY BOARD ON LABOR  
-RELATIONS, INCORPORATED  
-
-AND  
-
-SERVICE EMPLOYEES INTERNATIONAL  
-UNION, LOCAL 32BJ  
-
-EFFECTIVE MAY 1, 2024  
-TO APRIL 30, 2028  ||TABLE OF CONTENTS
-
-ARTICLE I: RECOGNITION AND SCOPE OF AGREEMENT..................................................1  
-ARTICLE II: UNION SECURITY..................................................................................3  
-ARTICLE III: CHECK-OFF..........................................................................................4  
-ARTICLE IV: DISCIPLINE AND DISCHARGE................................................................6  
-ARTICLE V: DRUG TESTING AND BACKGROUND CHECKS........................................7  
-ARTICLE VI: NO STRIKES, PICKETING, OR OTHER INTERRUPTION OF WORK...........7  
-ARTICLE VII: MANAGEMENT RIGHTS.......................................................................8  
-ARTICLE VIII: NO DISCRIMINATION...........................................................................9  
-ARTICLE IX: EMPLOYER TRANSITION.....................................................................16  
-ARTICLE X: SENIORITY............................................................................................17  
-ARTICLE XI: TRAINING............................................................................................19  
-ARTICLE XII: WORK WEEK/SCHEDULES................................................................20  
-ARTICLE XIII: METHOD OF PAY..............................................................................20  
-ARTICLE XIV: WAGES..............................................................................................21  
-ARTICLE XV: HOLIDAYS..........................................................................................25  
-ARTICLE XVI: SICK LEAVE......................................................................................26  
-ARTICLE XVII: EMERGENCY LEAVE OF ABSENCE................................................27  
-ARTICLE XVIII: UNIFORMS AND EQUIPMENT.......................................................29  
-ARTICLE XIX: VACATIONS......................................................................................29  
-ARTICLE XX: HEALTH AND WELFARE...................................................................30  
-ARTICLE XXI: LEGAL FUND....................................................................................32  
-ARTICLE XXII: SUPPLEMENTAL RETIREMENT AND SAVINGS FUND..................33  
-ARTICLE XXIII: PROVISIONS APPLICABLE TO ALL FUNDS..................................34  
-ARTICLE XXIV: MOST FAVORED NATIONS............................................................34  
-ARTICLE XXV: UNION VISITATION..........................................................................35  
-ARTICLE XXVI: GRIEVANCE AND ARBITRATION....................................................35  
-ARTICLE XXVII: WORK AUTHORIZATION AND STATUS DISPUTE.......................38  
-ARTICLE XXVIII: VETERAN TRANSITION ASSISTANCE.........................................38  
-ARTICLE XXIX: DURATION.......................................................................................39  
-ARTICLE XXX: TRANSITION FROM COMMERCIAL BUILDING AGREEMENT...........39  
-ARTICLE XXXI: SAVINGS CLAUSE...........................................................................39  
-ARTICLE XXXII: COMPLETE AGREEMENT.............................................................40  
-ARTICLE XXXIII: WAGE AND HOUR CLAIMS..........................................................41  
-ARTICLE XXXIV: HEALTH, SAFETY, & HERO ACT................................................42  ||```
+60||```
 2024 Security Officers Agreement
 
 Between
@@ -75,7 +27,7 @@ This Agreement is entered into between Service Employees International Union Loc
 
 3. A streamlined, flexible approach to traditional labor-management concerns is essential to high-quality professional security services.
 
-Article I – Recognition and Scope of Agreement
+Article I - Recognition and Scope of Agreement
 
 1.1 This Agreement shall apply to all security guards who are employed, or who may be employed in or assigned to any facility, or in the case of an owner or manager any assenting facility, within the City of New York, excluding managers, supervisors and clericals within the meaning of the Labor Management Relations Act, except that economic terms and conditions for all facilities other than Class A or Class B commercial office buildings shall be set forth in riders negotiated for each facility covered by this Agreement; provided, that security guards employed directly by a tenant shall not be covered by this Agreement; and provided further, that the Employer may hire or engage security personnel to perform specialized functions (such as, but not limited to, canine patrols) for up to and including sixty (60) days without
 1
@@ -100,16 +52,19 @@ Article II- Union Security
 ```||```
 Article III - Check-Off
 3.1. The Employer agrees to deduct from the first paycheck each month the monthly dues, initiation fees, agency fees, and American Dream Fund or Political Action Fund contributions, and all legal assessments due to the Union from the wages of an employee covered by this Agreement, when authorized by the employee in writing in accordance with applicable law. The Employer agrees that such deductions shall constitute Trust Funds that will be forwarded to the Union not later than the twentieth (20th) day of each and every month. The Union will furnish to the Employer the necessary authorization forms.
+
 3.2. If the Employer fails to deduct or remit to the Union dues or other monies in accordance with Article 3.1 by the twentieth (20th) day of the month, the Employer shall pay interest on such dues at the rate of one-percent (1%) per month beginning on the twenty-first (21st) day, unless the Employer can demonstrate the delay was for good cause due to circumstances beyond its control.
+
 3.3. If an employee does not revoke their dues check-off authorization at the end of the year following the date of authorization, or at the end of the current contract, whichever is earlier, the employee shall be deemed to have renewed their authorization for another year, or until the expiration of the next succeeding contract, whichever is earlier.
+
 3.4. The parties acknowledge and agree that the term “written authorization” as provided in this Agreement includes authorizations or revocations created and maintained by use of electronic records and electronic signatures consistent with state and federal law. The Union, therefore, may use electronic records to verify Union membership, authorization for voluntary deduction of Union dues and fees, as well as voluntary contributions to the Union’s American Dream Fund, from wages or payments for remittance to the Union, and authorization for voluntary deductions from wages or payments for remittance to the American Dream Fund. The Employer shall accept such electronic records from the Union as valid
-```||written authorizations for, or revocations of, deduction and remittance.
+```||written authorizations for, or revocations of, deduction and remittance. 
 
 Employers who are currently accepting such electronic records as valid written authorizations or revocations for deduction and remittance shall continue to do so. The parties recognize that Employers who are not currently accepting electronic records as valid written authorizations or revocations may need time and/or training to be able to do so. The Union shall provide any necessary training opportunity to the Employer to facilitate acceptance of electronic records as valid written authorizations or revocations for deduction and remittance. Those Employers who are not currently accepting electronic records as valid written authorizations or revocations shall commence acceptance no later than nine (9) months from the date an Employer first becomes signatory to this Agreement (the “Transition Period”), provided that any reasonably requested training has been provided by the Union. It is understood that the transition to electronic records and electronic signatures may cause some delays. During the Transition Period, Employers who deduct appropriately, but whose transmissions are delayed, shall not be subject to interest or penalties owing to such delays.
 
 3.5. The Employer shall provide employee information in connection with the transmission of dues, initiation fees, all legal assessments and other deductions required to be transmitted to the Union (collectively, “Deductions”). Deductions from employees’ paychecks shall be transmitted to the Union electronically via ACH utilizing the 32BJ self-service portal, unless the Union directs, in writing, that Deductions be remitted by means other than electronic transmittals. The Union shall specify reasonable information to be recorded and/or transmitted by the Employer, as necessary and consistent with this Agreement.
 
-Employers who are currently transmitting Deductions by ACH shall continue to do so. The parties recognize that Employers who are not currently transmitting Deductions by ACH, including those who may currently be transmitting deductions||through wire transfer, may need time and/or training to be able to do so. The Union shall provide any necessary training opportunity to the Employer to facilitate electronic transmissions. Those Employers who are not currently transmitting Deductions by ACH shall commence transmission by ACH no later than nine (9) months from the date an Employer first becomes signatory to this Agreement, or for Employers currently utilizing wire transfer, nine (9) months from the effective date of this Agreement, (collectively the “Transition Period”), provided that any reasonably requested training has been provided by the Union. It is understood that the transition to ACH payment may cause some delays in effecting transmission. During the Transition Period, Employers who deduct appropriately, but whose transmissiuis are delayed, shall not be subject to interest or penalties owing to such delays.
+Employers who are currently transmitting Deductions by ACH shall continue to do so. The parties recognize that Employers who are not currently transmitting Deductions by ACH, including those who may currently be transmitting deductions 5||through wire transfer, may need time and/or training to be able to do so. The Union shall provide any necessary training opportunity to the Employer to facilitate electronic transmissions. Those Employers who are not currently transmitting Deductions by ACH shall commence transmission by ACH no later than nine (9) months from the date an Employer first becomes signatory to this Agreement, or for Employers currently utilizing wire transfer, nine (9) months from the effective date of this Agreement, (collectively the “Transition Period”), provided that any reasonably requested training has been provided by the Union. It is understood that the transition to ACH payment may cause some delays in effecting transmission. During the Transition Period, Employers who deduct appropriately, but whose transmissiuis are delayed, shall not be subject to interest or penalties owing to such delays.
 
 Article IV- Discipline and Discharge
 
@@ -117,7 +72,7 @@ Article IV- Discipline and Discharge
 
 4.2. Employees shall have a trial or probationary period of one-hundred-and-twenty (120) days during which they may be discharged or disciplined without recourse to the grievance and arbitration procedure set forth in Article XXVI below.
 
-4.3. The Union recognizes that the customer is the ultimate consumer and ultimately controls the access of the employee, and the business of the Employer. When a security related incident occurs on a job site that is or can be reasonably construed as injurious to that customer, the employee, the 6||Union, and the Employer will cooperate in every way in the investigation of the incident until the incident is resolved and/or the customer is satisfied that all reasonable avenues have been pursued to their completion. The Union will not impede any reasonable steps which may assist the Employer in convincing the customer of the thoroughness and/or reliability of its investigation and/or actions consistent with the Union’s duty to provide fair and effective representation to its membership.
+4.3. The Union recognizes that the customer is the ultimate consumer and ultimately controls the access of the employee, and the business of the Employer. When a security related incident occurs on a job site that is or can be reasonably construed as injurious to that customer, the employee, the||Union, and the Employer will cooperate in every way in the investigation of the incident until the incident is resolved and/or the customer is satisfied that all reasonable avenues have been pursued to their completion. The Union will not impede any reasonable steps which may assist the Employer in convincing the customer of the thoroughness and/or reliability of its investigation and/or actions consistent with the Union's duty to provide fair and effective representation to its membership.
 
 Article V- Drug Testing and Background Checks
 
@@ -129,7 +84,7 @@ Article V- Drug Testing and Background Checks
 
 Article VI - No Strikes, Picketing or Other Interruption of Work
 
-6.1. There shall be no strikes (including unfair labor practice or sympathy strikes), picketing, work stoppages or job actions by employees or the Union, relating to this bargaining unit, or lockouts, during the term of this Agreement. In the event of a strike of another labor group or the Union involving the customer’s property or operations, the employees will remain on the job for protection of life, limb, and property, and not be required to assume duties outside the scope of this Agreement.
+6.1. There shall be no strikes (including unfair labor practice or sympathy strikes), picketing, work stoppages or job actions by employees or the Union, relating to this bargaining unit, or lockouts, during the term of this Agreement. In the event of a strike of another labor group or the Union involving the customer's property or operations, the employees will remain on the job for protection of life, limb, and property, and not be required to assume duties outside the scope of this Agreement.
 
 7||6.2. The Union acknowledges that security officers’ duties may include the apprehension, identification and reporting of, and giving evidence against, any persons who perform or conduct themselves in violation of work rules or applicable laws while on the Employer’s or the customer’s premises, and that the performance of such duties shall not subject security officers to punishment, discipline or charges by the Union.
 
@@ -139,55 +94,54 @@ Article VII - Management Rights
 
 7.2. The Employer shall also have the right to promulgate, post and enforce reasonable rules and regulations governing the conduct of employees during working hours. In any arbitration in which an Employer’s rule or regulation is found to be unreasonable, the arbitrator may only order rescission of the rule or regulation, and may not modify or alter the rule or regulation in any manner.
 
-7.3. The foregoing statements of management rights and Employer functions are not exclusive, and shall not be construed to limit||```
-or exclude any other inherent management rights not
-specifically enumerated.
+7.3. The foregoing statements of management rights and Employer functions are not exclusive, and shall not be construed to limit||or exclude any other inherent management rights not  
+specifically enumerated.  
 
-7.4. The Union recognizes that the Employer provides a service of
-critical importance to the customer. If a customer/tenant
-demands that the Employer remove an employee from further
-employment at a location, the Employer shall have the right to
-comply with such demand. However, unless the Employer has
-cause to discharge the employee, the Employer will place the
-employee in a job at another facility covered by Article 1.1 of
-this Agreement without loss of entitlement, seniority or
-reduction in pay or benefits. If the Employer has no other
-accounts within Article 1.1 where there are positions at the
-employee’s same wage level, then the employee shall be placed
-at another location of the Employer in a lower wage category
-or, at the employee’s option, may be laid off with the right,
-subject to the Employer’s suitability determination, to fill
-positions that may become available within four (4) months if
-the Employer obtains another account within Article 1.1.
-Transfers or removals of employees shall not be arbitrary or
-retaliatory. Upon the Union's request, the Employer will advise
-the Union of information it has relating to the customer's
-complaint and make reasonable efforts to secure from the
-customer a written confirmation of the customer's request.
+7.4. The Union recognizes that the Employer provides a service of  
+critical importance to the customer. If a customer/tenant  
+demands that the Employer remove an employee from further  
+employment at a location, the Employer shall have the right to  
+comply with such demand. However, unless the Employer has  
+cause to discharge the employee, the Employer will place the  
+employee in a job at another facility covered by Article 1.1 of  
+this Agreement without loss of entitlement, seniority or  
+reduction in pay or benefits. If the Employer has no other  
+accounts within Article 1.1 where there are positions at the  
+employee’s same wage level, then the employee shall be placed  
+at another location of the Employer in a lower wage category  
+or, at the employee’s option, may be laid off with the right,  
+subject to the Employer’s suitability determination, to fill  
+positions that may become available within four (4) months if  
+the Employer obtains another account within Article 1.1.  
+Transfers or removals of employees shall not be arbitrary or  
+retaliatory. Upon the Union's request, the Employer will advise  
+the Union of information it has relating to the customer's  
+complaint and make reasonable efforts to secure from the  
+customer a written confirmation of the customer's request.  
 
-7.5. The Employer shall promptly notify the Union, where possible
-in advance, of any reductions in the number of employees
-assigned to any work location covered by this Agreement.
+7.5. The Employer shall promptly notify the Union, where possible  
+in advance, of any reductions in the number of employees  
+assigned to any work location covered by this Agreement.  
 
-7.6 In accordance with Article 10-A of the New York Workers’
-Compensation Law, § 350, et seq., the Employer shall be
-permitted to contract with a preferred provider organization
-(PPO) to deliver all medical services mandated by the Workers’
-Compensation Law. The Employer and employees may
-exercise all rights granted to them under Article 10-A.
+7.6 In accordance with Article 10-A of the New York Workers’  
+Compensation Law, § 350, et seq., the Employer shall be  
+permitted to contract with a preferred provider organization  
+(PPO) to deliver all medical services mandated by the Workers’  
+Compensation Law. The Employer and employees may  
+exercise all rights granted to them under Article 10-A.  
 
-Article VIII - No Discrimination
+Article VIII - No Discrimination  
 
-8.1. There shall be no discrimination against any employee by
-reason of race, creed, color, age, disability, sexual orientation,
-```||national origin, sex, union membership, gender identity, pregnancy-related conditions, marital status, or any characteristic protected by law, including but not limited to, claims made pursuant to Title VII of the Civil Rights Act, the Americans with Disabilities Act, the Age Discrimination in Employment Act, the Family Medical Leave Act, 42 U.S.C. Section 1981, the New York State Human Rights Law, the New York City Human Rights Code, New Jersey Law Against Discrimination, New Jersey Conscientious Employee Protection Act, Connecticut Fair Employer Practices Act, or any other similar laws, rules or regulations. All such claims shall be subject to the grievance and arbitration procedure as the sole and exclusive remedy for violations. Provided, however, that nothing herein shall preclude the filing or adjudication of any statutory claim any time before (i) the Equal Employment Opportunity Commission (“EEOC”) or other similar agency whose jurisdiction includes employment discrimination claims; or (ii) the National Labor Relations Board (“NLRB”). Nor shall an employee be required to submit a claim involving sexual harassment and/or sexual assault to arbitration. Arbitrators shall apply appropriate law in rendering decisions based upon claims of discrimination.
+8.1. There shall be no discrimination against any employee by  
+reason of race, creed, color, age, disability, sexual orientation,  
+9||national origin, sex, union membership, gender identity, pregnancy-related conditions, marital status, or any characteristic protected by law, including but not limited to, claims made pursuant to Title VII of the Civil Rights Act, the Americans with Disabilities Act, the Age Discrimination in Employment Act, the Family Medical Leave Act, 42 U.S.C. Section 1981, the New York State Human Rights Law, the New York City Human Rights Code, New Jersey Law Against Discrimination, New Jersey Conscientious Employee Protection Act, Connecticut Fair Employer Practices Act, or any other similar laws, rules or regulations. All such claims shall be subject to the grievance and arbitration procedure as the sole and exclusive remedy for violations. Provided, however, that nothing herein shall preclude the filing or adjudication of any statutory claim any time before (i) the Equal Employment Opportunity Commission (“EEOC”) or other similar agency whose jurisdiction includes employment discrimination claims; or (ii) the National Labor Relations Board (“NLRB”). Nor shall an employee be required to submit a claim involving sexual harassment and/or sexual assault to arbitration. Arbitrators shall apply appropriate law in rendering decisions based upon claims of discrimination.
 
 8.2 NO-DISCRIMINATION PROTOCOL
 
 (1) PROTOCOL¹
 The parties to this Agreement, the Union and RAB, believe that it is in the best interests of all involved - - employees, members of the Union, employers, the Union, the RAB and the public interest - - to promptly, fairly, and efficiently resolve claims of workplace discrimination, harassment and retaliation as covered in the No Discrimination Clause of the relevant collective bargaining agreement (collectively, “Covered Claims”). Such Covered Claims are very often intertwined with other contractual disputes under this Agreement. The RAB, on behalf of its members, maintains that it is committed to refrain from
 
-¹ The parties intend this provision to apply to all collective bargaining agreements between them superseding the protocol language first incorporated in the 2012 Commercial Building CBA and subsequently updated CBAs.
+¹ The parties intend this provision to apply to all collective bargaining agreements between them superseding the Protocol language first incorporated in the 2012 Commercial Building CBA and subsequently updated CBAs.
 
 10||unlawful discrimination, harassment and retaliation. The Union maintains it will pursue its policy of evaluating such Covered Claims and bringing those Covered Claims to arbitration where appropriate. To this end, the parties establish the following system of mediation and arbitration applicable to all such Covered Claims, provided that nothing herein shall preclude the filing or adjudication of any statutory claim at any time before (i) the Equal Employment Opportunity Commission (“EEOC”) or other similar agency whose jurisdiction includes employment discrimination claims; or (ii) the National Labor Relations Board (“NLRB”). Nor shall an employee be required to submit a claim involving sexual harassment and/or sexual assault to arbitration. The Union and RAB want those covered by this Agreement and any individual attorneys representing them to be aware of this Protocol.
 
@@ -231,53 +185,23 @@ D. Neither the Union nor the RAB will be a party to the arbitration described in
 
 (4) MANDATORY WRITTEN NOTIFICATION BEFORE UNION MEMBERS ATTEMPT TO BRING ANY COVERED CLAIM IN COURT, AND REMEDIES FOR FAILING TO PROVIDE NOTICE
 
-A. The RAB and the Union have established the foregoing Protocol to provide interested parties a means to rapidly resolve or hear on the merits Covered Claims fairly. To make this system most effective, it is a mandatory prerequisite before any bargaining unit member attempts to file a Covered Claim in any court that the bargaining unit member (personally or through their attorney) notify in writing the RAB and the Employer that the Employee is attempting to bypass the Protocol process. The notice required by this section (the “Bypass Notice”) shall specify the Covered Claim(s) alleged with sufficient
+A. The RAB and the Union have established the foregoing Protocol to provide interested parties a means to rapidly resolve or hear on the merits Covered Claims fairly. To make this system most effective, it is a mandatory prerequisite before any bargaining unit member attempts to file a Covered Claim in any court that the bargaining unit member (personally or through their attorney) notify in writing the RAB and the Employer that the Employee is attempting to bypass the Protocol process. The notice required by this section (the “Bypass Notice”) shall specify the Covered Claim(s) alleged with sufficient 14||detail, the court where the action is to be filed, and the reason(s) for attempting to bypass the Protocol process.
 
-14||```
-detail, the court where the action is to be filed, and the reason(s) for
-attempting to bypass the Protocol process.
+B. A copy of the Bypass Notice must be sent to: (a) the Employer and (b) the Realty Advisory Board on Labor Relations, Inc., One Penn Plaza, Suite 2110, New York, New York 10119.
 
-B. A copy of the Bypass Notice must be sent to: (a) the Employer and
-(b) the Realty Advisory Board on Labor Relations, Inc., One Penn
-Plaza, Suite 2110, New York, New York 10119.
+C. Absent compelling good cause, the Bypass Notice must be mailed by first-class certified mail, return receipt requested at least sixty (60) days before the bargaining unit member plans to commence a lawsuit in any court.
 
-C. Absent compelling good cause, the Bypass Notice must be mailed by
-first-class certified mail, return receipt requested at least sixty (60)
-days before the bargaining unit member plans to commence a lawsuit
-in any court.
+D. Providing the Bypass Notice is a condition precedent prior to bringing a Covered Claim in any forum.
 
-D. Providing the Bypass Notice is a condition precedent prior to bringing
-a Covered Claim in any forum.
+E. Nothing contained in this Protocol will limit an employer or the RAB’s remedies in the event of a breach of the Protocol or the CBA by an individual asserting a Covered Claim.
 
-E. Nothing contained in this Protocol will limit an employer or the
-RAB’s remedies in the event of a breach of the Protocol or the CBA
-by an individual asserting a Covered Claim.
-
-F. Nothing contained within this Protocol shall require mediation or
-arbitration where prohibited by law. With respect to any Covered
-Claim that employees may not lawfully be required to submit to
-mediation or arbitration, employees may voluntarily submit such
-claims to the foregoing mediation and/or arbitration procedures.
+F. Nothing contained within this Protocol shall require mediation or arbitration where prohibited by law. With respect to any Covered Claim that employees may not lawfully be required to submit to mediation or arbitration, employees may voluntarily submit such claims to the foregoing mediation and/or arbitration procedures.
 
 (5) ANTI-DISCRIMINATION AND HARASSMENT TRAINING
 
-The parties hereby reaffirm the parties’ longstanding mutual
-commitment to prevent harassment and discrimination in the
-workplace, including discrimination based on race, creed, color, sex,
-gender, race, age, ethnicity, disability, sexual orientation, gender
-identity, national origin, union membership, pregnancy-related
-conditions, marital status, and any other legally protected categories.
-To that end, and in an effort to implement the parties’ commitment,
-the parties mandate that the Diversity and Respect Committee (the
-“Committee”) meet to discuss the prevention of discrimination and
-harassment in the commercial building workplace, including through
-training of employees to prevent sexual and other forms of
-harassment, discrimination and retaliation in the workplace, and the
-elimination of adverse treatment that is the product of bias, whether
-conscious or unconscious. The parties intend that the training shall be
-no less extensive than that required by law (see, e.g., the New York
-15
-```||State law on training and other anti-sexual harassment measures). The parties recommend to the Trustees of the Thomas Shortman Training, Scholarship and Safety Fund (the “Fund”) that Fund staff and the Fund’s Curriculum Committee develop and provide anti-harassment, anti-discrimination, anti-bias and anti-retaliation training, including training related to third-party conduct. Such training may be coordinated with the Fund’s existing course offerings. The parties recognize that other entities – in addition to the Fund – will be engaged to provide this training. The parties intend that the curriculum and materials developed by the Fund be made available to such other entities.
+The parties hereby reaffirm the parties’ longstanding mutual commitment to prevent harassment and discrimination in the workplace, including discrimination based on race, creed, color, sex, gender, race, age, ethnicity, disability, sexual orientation, gender identity, national origin, union membership, pregnancy-related conditions, marital status, and any other legally protected categories. To that end, and in an effort to implement the parties’ commitment, the parties mandate that the Diversity and Respect Committee (the “Committee”) meet to discuss the prevention of discrimination and harassment in the commercial building workplace, including through training of employees to prevent sexual and other forms of harassment, discrimination and retaliation in the workplace, and the elimination of adverse treatment that is the product of bias, whether conscious or unconscious. The parties intend that the training shall be no less extensive than that required by law (see, e.g., the New York
+
+15||State law on training and other anti-sexual harassment measures). The parties recommend to the Trustees of the Thomas Shortran Training, Scholarship and Safety Fund (the “Fund”) that Fund staff and the Fund’s Curriculum Committee develop and provide anti-harassment, anti-discrimination, anti-bias and anti-retaliation training, including training related to third-party conduct. Such training may be coordinated with the Fund’s existing course offerings. The parties recognize that other entities – in addition to the Fund – will be engaged to provide this training. The parties intend that the curriculum and materials developed by the Fund be made available to such other entities.
 
 Article IX - Employer Transition
 
@@ -287,8 +211,7 @@ Article IX - Employer Transition
 
 9.3. If employees in any building had in effect on the effective date of this Agreement a practice of terms or conditions better than those provided for herein, applicable generally to them for wages, hours, sick pay, vacations, holidays, premium pay, relief periods, jury duty or other economic or leave issues, such better terms or conditions shall be continued only for employees employed by the Employer on the effective date, unless the Union and the Employer agree otherwise.
 
-16||```
-9.4. Any Employer assuming this Agreement shall be responsible for payment of vacation pay and granting of vacations required under this Agreement which may have accrued prior to the Employer taking over the job, less any amounts paid or given for that vacation year. In the event that the successor Employer has reason to believe that the predecessor intentionally delayed vacations in order to avoid the obligation to make vacation payments under this Agreement, the successor must still make vacation payments to employees, but may pursue a claim against the predecessor Employer pursuant to the arbitration provision of this Agreement in order to seek recovery for payments made. In the event that the Employer terminates its Employer-employee relationship under this Agreement and the successor Employer does not have an agreement with the Union providing for at least the same vacation benefits, the Employer shall be responsible for all accrued vacation benefits.
+16||9.4. Any Employer assuming this Agreement shall be responsible for payment of vacation pay and granting of vacations required under this Agreement which may have accrued prior to the Employer taking over the job, less any amounts paid or given for that vacation year. In the event that the successor Employer has reason to believe that the predecessor intentionally delayed vacations in order to avoid the obligation to make vacation payments under this Agreement, the successor must still make vacation payments to employees, but may pursue a claim against the predecessor Employer pursuant to the arbitration provision of this Agreement in order to seek recovery for payments made. In the event that the Employer terminates its Employer-employee relationship under this Agreement and the successor Employer does not have an agreement with the Union providing for at least the same vacation benefits, the Employer shall be responsible for all accrued vacation benefits.
 
 9.5. The Employer shall within a reasonable amount of time not to exceed ten (10) business days notify the Union in writing if the Employer receives written cancellation of an account/location. The Employer shall provide to the Union a list of all employees at the account/location, their wage rates, the number of hours worked, the dates of hire, the number of sick days, holidays, benefit contributions made for employees, and vacation benefits.
 
@@ -299,9 +222,10 @@ Article X - Seniority
 10.2. After completion of the trial or probationary period, an employee shall attain seniority as of the employee’s original date of employment.
 
 10.3. Seniority shall be broken by any of the following events:
+
 10.3.1 resignation, retirement, or voluntary termination;
-17
-```||10.3.2 discharge for cause;  
+
+17||10.3.2 discharge for cause;  
 10.3.3 voluntary promotion into any non-bargaining unit position;  
 10.3.4 inactive employment for any reason exceeding six (6) months or an employee’s length of seniority, whichever is less;  
 10.3.5 failure to return to work after any leave within five (5) calendar days after a scheduled date for return, unless prior written notice is received by the Employer.  
@@ -318,17 +242,18 @@ accrue seniority at their new location as if they had started work at that locat
 Article XI - Training
 11.1. The Employer and the Union are committed to providing the Employer’s customers, and their tenants, security employees whose training exceeds state minimum standards.
 
-11.2. All employees shall be required to successfully complete forty (40) hours of training provided by the Thomas Shortman Training Fund for employment, and thereafter as agreed to by the parties. The parties will agree on the training curriculum and the schedule on which employees must complete their annual cycle of training. The Employer may require additional training for employees tailored to classifications that the Employer may establish or for other reasons that it determines.
+11.2. All employees shall be required to successfully complete forty (40) hours of training provided by the Thomas Shortman Training Fund for employment, and thereafter as agreed to by the parties. The parties will agree on the training curriculum and the schedule on which employees must complete their annual cycle of training. The Employer may require additional training for employees tailored to classifications that the Employer may establish for or other reasons that it determines.
 
 11.3. The first sixteen (16) hours of training required under Article 11.2 shall be taken pursuant to each employee’s paid leave allotment. Employees may draw against future paid leave for this purpose. The remaining twenty-four (24) hours of training required under Article 11.2 shall be treated as work-time. Employees’ mandatory eight (8) hour annual recertification training also shall be treated as work time.
 
 11.4. The Employer shall contribute $312 per year to the Thomas Shortman Fund for each employee under such terms and conditions as the Trustees of the Fund have established or may establish. Effective January 1, 2026, the contribution rate will increase to $336 per year for each employee. The obligation to contribute shall commence thirty (30) calendar days after the employee’s date of hire. Newly hired employees shall be eligible to participate in the Training Fund upon their date of hire and without any waiting period at no additional cost to the Employer.
 
 11.5. The Employer shall not be required to make the contributions provided for in Article 11.4 for any vacation replacement or
+19
 ```||temporary replacement if those individuals have already  
 received the training provided for in Article 11.2.  
 
-11.6. Employees shall not be required to pay for training required or  
+11.6 Employees shall not be required to pay for training required or  
 mandated by the Employer.  
 
 Article XII - Workweek/Schedules  
@@ -365,57 +290,29 @@ Article XIII - Method of Pay
 
 13.1. Employees shall be paid on a weekly basis, no later than seven  
 (7) days after the pay period ends. Employees shall receive pay  
-20||```
-statements itemizing hours worked, rates of pay, and any
-deductions from their pay.
+20||statements itemizing hours worked, rates of pay, and any deductions from their pay.
 
-13.2. The Employer may require, at no cost to the employee, that an
-employee's check be electronically deposited at the employee's
-designated bank, or that other improved technological methods
-of payment be used. The Union shall be notified by the
-Employer of this arrangement.
+13.2. The Employer may require, at no cost to the employee, that an employee’s check be electronically deposited at the employee’s designated bank, or that other improved technological methods of payment be used. The Union shall be notified by the Employer of this arrangement.
 
-13.3. The Union recognizes that certain employees and Employers
-desire to utilize a bi-weekly payroll schedule. Employers
-recognize that bi-weekly pay may create hardships for certain
-employees. The partiespreviously agreed to create an industry-
-wide committee to study the bi-weekly pay issue. The industry-
-wide committee is now authorized to conduct pilot programs
-instituting bi-weekly pay at any selected buildings(s) where the
-Union and the Employer agree to institute bi-weekly pay.
+13.3. The Union recognizes that certain employees and Employers desire to utilize a bi-weekly payroll schedule. Employers recognize that bi-weekly pay may create hardships for certain employees. The parties previously agreed to create an industry-wide committee to study the bi-weekly pay issue. The industry-wide committee is now authorized to conduct pilot programs instituting bi-weekly pay at any selected buildings(s) where the Union and the Employer agree to institute bi-weekly pay.
 
 Article XIV - Wages
+14.1. There shall be four (4) basic classifications of security officers: Security Officer I, Security Officer II, Security Officer III and Armed Guard. The Employer shall notify the Union of any other classifications, and related rates of pay, that the Employer determines to establish.
 
-14.1. There shall be four (4) basic classifications of security officers:
-Security Officer I, Security Officer II, Security Officer III and
-Armed Guard. The Employer shall notify the Union of any
-other classifications, and related rates of pay, that the Employer
-determines to establish.
+14.2. The Employer shall, within its sole discretion, determine the requirements, including any additional training other than the minimum forty (40) hours provided for in Article 11.2 appropriate for each classification; the placement of employees within the classifications; and, the elevation of employees from one classification to another. Such determinations shall not be subject to the grievance and arbitration provisions of this Agreement.
 
-14.2. The Employer shall, within its sole discretion, determine the
-requirements, including any additional training other than the
-minimum forty (40) hours provided for in Article 11.2
-appropriate for each classification; the placement of employees
-within the classifications; and, the elevation of employees from
-one classification to another. Such determinations shall not be
-subject to the grievance and arbitration provisions of this
-Agreement.
+14.3. Employees in the Security Officer I classification who have not yet completed thirty-six (36) months of employment and who are paid more than the new hire minimum rates set forth below but less than the full Security Officer I rate shall receive no less
 
-14.3. Employees in the Security Officer I classification who have not
-yet completed thirty-six (36) months of employment and who
-are paid more than the new hire minimum rates set forth below
-but less than the full Security Officer I rate shall receive no less
-21
-```||than 85% of the applicable Security Officer I wage increase  
+21||than 85% of the applicable Security Officer I wage increase  
 during the first thirty-six (36) months of employment.  
 
 Newly hired employees in the Security Officer I classification  
 shall be paid no less than the following minimum rates:  
 
-Effective May 1, 2024 $17.17  
-Effective May 1, 2025 $18.02  
-Effective May 1, 2026 $18.87  
-Effective May 1, 2027 $19.68  
+Effective May 1, 2024  $17.17  
+Effective May 1, 2025  $18.02  
+Effective May 1, 2026  $18.87  
+Effective May 1, 2027  $19.68  
 
 All newly hired employees in the Industry shall be paid no less  
 than 85% of the minimum wage rate applicable to employees in  
@@ -427,10 +324,10 @@ and certification requirements set forth below in newly inserted
 Section 14.4, shall be paid no less than the minimum wage rates set  
 forth below:  
 
-Effective May 1, 2024 $20.20  
-Effective May 1, 2025 $21.20  
-Effective May 1, 2026 $22.20  
-Effective May 1, 2027 $23.15  
+Effective May 1, 2024  $20.20  
+Effective May 1, 2025  $21.20  
+Effective May 1, 2026  $22.20  
+Effective May 1, 2027  $23.15  
 
 All employees classified as Security Officer I, whose hourly  
 rate of pay on May 1, 2024, is above the minimum hourly rate  
@@ -464,18 +361,18 @@ The Employer shall reimburse the Employee the cost of one (1) fee paid to the Fi
 
 All employees classified as Security Officer II shall receive the minimum hourly rate or an increase of $0.55 per hour on May 1, 2024, an increase of $1.00 per hour on May 1, 2025, and an increase of $1.00 per hour on May 1, 2026, and an increase of $0.95 per hour on May 1, 2027, whichever shall result in the higher rate of pay.
 
-14.6 Effective May 1, 2024, employees classified as Security Officer III shall be paid a minimum hourly rate of $24.88. Effective May 1, 2025, the minimum hourly rate shall be $25.88; effective May 1, 2026, the minimum hourly rate shall be $26.88; effective May 1, 2027, the minimum hourly rate shall be $27.83.
+14.6. Effective May 1, 2024, employees classified as Security Officer III shall be paid a minimum hourly rate of $24.88. Effective May 1, 2025, the minimum hourly rate shall be $25.88; effective May 1, 2026, the minimum hourly rate shall be $26.88; effective May 1, 2027, the minimum hourly rate shall be $27.83.
 
 All employees classified as Security Officer III shall receive the minimum hourly rate or an increase of $0.55 per hour on May 1, 2024, an increase of $1.00 per hour on May 1, 2025, an increase of $1.00 per hour on May 1, 2026, and an increase of $0.95 per hour on May 1, 2027, whichever shall result in the higher rate of pay.
 
-14.7 Effective May 1, 2024, employees classified as Armed Guard shall be paid a minimum hourly rate of $31.70. Effective May 1, 2025, the minimum hourly rate shall be $32.70; effective May 1, 2026, the minimum hourly rate shall be $33.70; effective May 1, 2027, the minimum hourly rate shall be $34.65.
+14.7. Effective May 1, 2024, employees classified as Armed Guard shall be paid a minimum hourly rate of $31.70. Effective May 1, 2025, the minimum hourly rate shall be $32.70; effective May 1, 2026, the minimum hourly rate shall be $33.70; effective May 1, 2027, the minimum hourly rate shall be $34.65.
 
 All employees classified as Armed Guard shall receive the minimum hourly rate or an increase of $0.55 per hour on May 1, 2024, an increase of $1.00 per hour on May 1, 2025, an increase of $1.00 per hour on May 1, 2026, and an increase of $0.95 per hour on May 1, 2027, whichever shall result in the higher rate of pay.
 
 24||```
 14.8. No employee employed on the date of this Agreement shall have their hourly wage reduced as a result of this Agreement.
 
-14.9. All employees subject to this Agreement shall receive either the rates provided in Articles 14.3, 14.5, 14.6 or 14.7, as applicable, provided, that buildings already under a collective bargaining Agreement governing employees to be covered by this Agreement shall bargain with the Union on an individual basis regarding over-scale employees. Officers formerly covered by the RAB Commercial Agreement will receive the wage increases and other economic benefits in the 2024 RAB Commercial Agreement.
+14.9. All employees subject to this Agreement shall receive either the rates provided in Articles 14.3, 14.5, 14.6 or 14.7, as applicable, provided, that buildings already under a collective bargaining agreement governing employees to be covered by this Agreement shall bargain with the Union on an individual basis regarding over-scale employees. Officers formerly covered by the RAB Commercial Agreement will receive the wage increases and other economic benefits in the 2024 RAB Commercial Agreement.
 
 14.10. The regularly assigned Fire Safety Director appointed by the Employer and certified by the Fire Department shall be classified as a Security Officer III. Nothing in this Agreement shall obligate the Employer to designate more than one (1) employee as a Security Officer III Fire Safety Director.
 
@@ -488,7 +385,7 @@ Article XV - Holidays
 
 15.4. In order to qualify for holiday pay, employees must work their last regularly scheduled shift before the holiday and their next regularly scheduled shift following the holiday, provided, that employees who are absent on one (1) or more days due to approved vacation or sick leave shall be entitled to holiday pay, and provided further, that employees who are absent on one (1) or both of such days due to FMLA leave, or medical or personal leave previously approved by the Employer, shall be entitled to receive holiday pay only upon their return to active employment.
 
-15.5 All employees (with the exception of employees covered under the economic terms of the 2024 RAB Commercial Agreement) shall receive two (2) personal days in each contract year. These personal days are in addition to the holidays listed in Article 15.1 above. Employees may select such days off on five (5) days' notice to the Employer provided such selection does not result in a reduction of employees in the building below seventy-five (75%) percent of the normal work staff. Such selection shall be made in accordance with seniority.
+15.5 All employees (with the exception of employees covered under the economic terms of the 2024 RAB Commercial Agreement) shall receive two (2) personal days in each contract year. These personal days are in addition to the holidays listed in Article 15.1 above. Employees may select such days off on five (5) days’ notice to the Employer provided such selection does not result in a reduction of employees in the building below seventy-five (75%) percent of the normal work staff. Such selection shall be made in accordance with seniority.
 
 15.6 Upon request and in accordance with the terms of Section 15.5, supra, employees shall be allowed to use a personal day from their annual allotment to observe Juneteenth.
 
@@ -506,7 +403,7 @@ The parties agree that on an annual basis, the paid leave benefits provided unde
 
 Article XVII - Emergency Leave of Absence
 
-17.1. (a)(i) Once during the term of this Agreement, upon written application to the Employer and the Union, a regular employee who has been employed in the building for five (5) years or more shall be granted a leave of absence for illness or injury not to exceed six (6) months.
+17.1 (a)(i) Once during the term of this Agreement, upon written application to the Employer and the Union, a regular employee who has been employed in the building for five (5) years or more shall be granted a leave of absence for illness or injury not to exceed six (6) months. 
 
 27||(ii) The leave of absence outlined above is subject to an extension not exceeding six (6) months in the case of bona fide inability to work whether or not covered by the New York State Workers’ Compensation Law or the New York State Disability Benefits Law. When such employee is physically and mentally able to resume work, that employee shall on one (1) week’s prior written notice to the Employer be then re-employed with no seniority loss.
 
@@ -524,7 +421,7 @@ Article XVII - Emergency Leave of Absence
 
 28||17.4 A regular full-time employee with at least one (1) year of seniority shall not be required to work for a maximum of three (3) days immediately following the death of the employee’s parent, sibling, spouse or child and shall be paid the employee’s regular, straight time wages for any of such three (3) days on which the employee was regularly scheduled to work or entitled to holiday pay.
 
-17.5 Employers shall provide family leave in accordance with the coverage and requirements of the NYS Paid Family Leave Law (“NYSFL”). Any Employer who is required by law to comply with the provisions of the Family and Medical Leave Act (“FMLA”) shall comply with the requirements of that Act. All leaves of absence under this Article will run concurrently with applicable FMLA leave, applicable NYSPFL leave and/or other applicable State or City leave requirements.
+17.5 Employers shall provide family leave in accordance with the coverage and requirements of the NYS Paid Family Leave Law (“NYSFPL”). Any Employer who is required by law to comply with the provisions of the Family and Medical Leave Act (“FMLA”) shall comply with the requirements of that Act. All leaves of absence under this Article will run concurrently with applicable FMLA leave, applicable NYSFPL leave and/or other applicable State or City leave requirements.
 
 Article XVIII – Uniforms and Equipment
 
@@ -539,14 +436,14 @@ Article XIX - Vacations
 Months on Payroll  Vacation with Pay
 6                  3 working days (not to exceed 24 hours)
 12                 1 week (not to exceed 5 days or 40 hours)
-24                 2 weeks (not to exceed 10 days or 80 hours) 
+24                 2 weeks (not to exceed 10 days or 80 hours)
 
 29||```
-60    3 weeks (not to exceed 15
+60      3 weeks (not to exceed 15
 days or 120 hours)
-180   4 weeks (not to exceed 20
+180     4 weeks (not to exceed 20
 days or 160 hours)
-300   5 weeks (not to exceed 25
+300     5 weeks (not to exceed 25
 days or 200 hours)
 
 19.2. Length of employment for vacation shall be based upon the
@@ -554,16 +451,20 @@ amount of vacation an employee would be entitled to on
 September 15th of the year in which the vacation is given,
 subject to grievance and arbitration where the result is
 unreasonable.
+
 19.3. Vacations will be paid at the employee’s regular straight-time
 hourly rate of pay.
+
 19.4. Selection and preference as to time of taking vacations shall be
 granted to employees on the basis of seniority, except that a
 building may depart from seniority in vacation scheduling
 where it is required to maintain normal operations of the
 building, in which event the Union shall be notified as soon as
 possible of the departure from seniority.
+
 19.5. Employees shall be paid vacation on a pro rata basis upon their
 termination of employment for any reason.
+
 19.6. Vacation relief employees, employed for a period of five (5)
 months or less, are not eligible for vacation benefits under this
 Article.
@@ -577,6 +478,7 @@ employees covered by this Agreement who work more than two
 provisions, rules and regulations as may be determined by the
 Trustees of the fund, as provided in the Agreement and
 Declaration of Trust.
+
 30
 ```||Employees who are on workers’ compensation or who are receiving statutory short-term disability benefits, or Building Service 32BJ long-term disability benefits shall be covered by the Health Fund without employer contributions until they may be covered by Medicare or six (6) months from the date of disability, whichever is earlier.
 
@@ -595,6 +497,7 @@ In no event shall any employee who was previously covered for Health Benefits lo
 20.7. The parties agree that if the current federal healthcare law or legislation or any future governmental healthcare reform requires (i) any payment by contributing Employers for some or all of the benefits already provided for in the Health Fund to participants or (ii) requires any contributing Employers to pay any excise or other tax, penalty (including assessable payments), fee or other amount relating to or resulting from the eligibility requirements of or the level of benefits provided by the Fund, the parties shall recommend that the trustees revise the plan of benefits under the Fund so that such excise tax, penalty (including assessable payments), fee or other amount are not payable. In the event the trustees do not revise the plan of benefits under the Fund so that such excise tax or other tax, penalty (including assessable payments), fee or other amount are not payable, the affected Employers' contributions to the Fund, or contributions to the other Benefit Funds shall be reduced by the amount of such excise or other tax, penalty (including assessable payments), fee or other amount. With respect to any future governmental healthcare reform that requires any payments described in (i) and/or (ii) in this paragraph, the bargaining parties will bargain over what to recommend to the trustees consistent with the goals of maintaining quality benefits and containing costs.
 
 Article XXI - Legal Fund
+
 21.1 The Employer shall make the following contributions per year per employee into the Building Service 32BJ Legal Services Fund on behalf of all employees who regularly work more than 
 
 32||two (2) days per week and who have completed one hundred twenty (120) days of employment.
@@ -605,8 +508,7 @@ Effective January 1, 2026 $175.60
 Effective January 1, 2027 $175.60  
 Effective January 1, 2028 $175.60  
 
-Article XXII – Supplemental Retirement and Savings Fund
-
+Article XXII - Supplemental Retirement and Savings Fund  
 22.1. Regular full-time employees shall continue to be eligible to participate in the Building Service 32BJ Supplemental Retirement and Savings Fund (“SRSP”) in accordance with the terms and conditions of such Fund, as it may be amended, at no cost to the Employer.
 
 22.2. The Employer shall make the following weekly contribution to the Building Service 32BJ Supplemental Retirement and Savings Fund on behalf of all employees who regularly work more than two (2) days per week and who have completed two (2) years of employment.
@@ -620,7 +522,7 @@ Effective May 1, 2027 $16.00
 
 The Employer shall make contributions to the SRSP to cover employees covered by this Agreement with Employer contributions, as well as tax exempt employee wage deferrals as provided by the plan and/or plan rules.
 
-33||22.. This provision shall apply only to those officers for whom the Employer is not currently making contributions to the Building Service Local 32BJ Pension Fund. For all officers on whose behalf the Employer is making contributions to the Building Service 32BJ Pension Fund, the weekly rate of Employer contribution to the SRSP shall continue to be $13 weekly per employee for the duration of this Agreement.
+33||22. This provision shall apply only to those officers for whom the Employer is not currently making contributions to the Building Service Local 32BJ Pension Fund. For all officers on whose behalf the Employer is making contributions to the Building Service 32BJ Pension Fund, the weekly rate of Employer contribution to the SRSP shall continue to be $13 weekly per employee for the duration of this Agreement.
 
 Article XXIII - Provisions Applicable to All Funds
 
@@ -630,7 +532,9 @@ Article XXIII - Provisions Applicable to All Funds
 
 Article XXIV - Most Favored Nations
 
-24.1. If the Union agrees to different wages or benefits more favorable to the Employer at any location subject to Article 1.1 above, those terms and conditions shall apply to any other||Employer who takes over that location for the duration of the Union’s agreement with the prior employer.
+24.1. If the Union agrees to different wages or benefits more favorable to the Employer at any location subject to Article 1.1 above, those terms and conditions shall apply to any other
+
+34||Employer who takes over that location for the duration of the Union’s agreement with the prior employer.
 
 24.2. In the event that the Union enters into a contract on or after December 1, 2026, for a Class A Commercial Office Building location within the City of New York, whose wages or benefits are more favorable to such employer than the terms contained in this agreement with respect to that location, the Employer shall be entitled to and may have the full benefit of any and all such more favorable terms for any of its Class A commercial office building locations within Manhattan, upon notification to the Union. The Union will send the Employer notice of any such more favorable contracts. This clause shall not apply to contracts entered into before December 1, 2026, even if the terms of any such contracts extend beyond that date.
 
@@ -644,9 +548,7 @@ Article XXVI - Grievance and Arbitration
 
 26.1. All disputes or differences involving the interpretation or application of this Agreement that arise between the Employer and the Union shall be resolved as provided in this Article. Nothing in this Agreement shall preclude deferral where the National Labor Relations Act provides for deferral.
 
-26.2. If a dispute or difference covered by this Article cannot be resolved informally between the Union and Employer, it shall
-
-35||be filed in writing within thirty (30) days of the date of any conduct or action alleged to be in violation of the Agreement.
+26.2. If a dispute or difference covered by this Article cannot be resolved informally between the Union and Employer, it shall 35||be filed in writing within thirty (30) days of the date of any conduct or action alleged to be in violation of the Agreement.
 
 26.3. The Employer and the Union shall hold a meeting on unresolved grievances no later than thirty (30) days after the filing of the written grievance. The scheduling or convening of this meeting shall not be a cause for delay of arbitration.
 
@@ -695,18 +597,15 @@ Article XXXI - Savings Clause
 31.1 If any provision, or the enforcement or performance of any provision of this Agreement is or shall at any time be held
 ```||contrary to law, then such provision shall not be applicable or enforced or performed except to the extent permitted by law. Both parties agree to construe any provisions held to be contrary to law as closely to their bargained-for purpose as permissible by law and to agree on a revised draft of such provision that as closely as legally possible mirrors the purpose of such an invalidated provision. If any provision of this Agreement shall be held illegal or of no legal effect, the remainder of this Agreement shall not be affected thereby.
 
-Article XXXII - Complete Agreement
-
+Article XXXII - Complete Agreement  
 32.1 This Agreement constitutes the full understanding between the parties and, except as they may otherwise agree, there shall be no demand by either party for the negotiation or renegotiation of any matter covered or not covered by the provisions hereof.
 
-Article XXXIII - Wage and Hour Claims
-
+Article XXXIII - Wage and Hour Claims  
 33.1 Subject to the principles set forth below, the Employee and the Union agree that in the event that an Employee (on behalf of the Employee and/or others) asserts statutory wage and hour claim(s) against the Employer(s), including claims for unpaid minimum wages and/or overtime pay, prior to the filing of any such claim(s) in court, the Employer and Employee shall engage in mandatory mediation to attempt to narrow or resolve the claim(s). The RAB and Union agree to establish a mediation process for handling such claims. The following principles shall apply:
 
 1. The Employee(s) must initiate mediation by written notice to the Employer, or the Employer must initiate mediation by written notice to the Employee(s) and Employee's counsel, as appropriate.
 
-2. Initiation of mediation shall be required only of Employees who are (or who will seek to be) plaintiffs in an individual or multi-plaintiff action or named or representative plaintiffs in a putative class and/or collective action. Employees who are not ( and
-
+2. Initiation of mediation shall be required only of Employees who are (or who will seek to be) plaintiffs in an individual or multi-plaintiff action or named or representative plaintiffs in a putative class and/or collective action. Employees who are not ( and will  
 40||not seek to be) named or representative plaintiffs (e.g., who are merely putative class or collective action members) are not required to initiate mediation in connection with this section; however, the Employee's claims will be a subject of the mediation process described in this section.
 
 3. Unless otherwise agreed to by the mediating parties, at any time following ninety (90) days after the initiation of the mediation process, either the Employer or the Employee(s) may terminate mediation by written notice to the other side, and, in that event, no further mediation effort shall be required by this Agreement.
@@ -715,23 +614,24 @@ Article XXXIII - Wage and Hour Claims
 
 5. The parties do not intend an Employee's substantive or recovery rights or any Employer defenses to be limited by virtue of the terms of this mediation process. Hence, during the pendency of the mediation process, any statutes of limitations and/or filing periods shall be tolled, and recovery of appropriate damages shall be permitted for all time periods during which mediation is occurring or has occurred. To the extent that the tolling described in this paragraph is deemed legally ineffective, and without conceding that any recovery is appropriate, the Employee(s) shall have the contractual right to seek recovery for any time period(s) that would have been tolled without having to exhaust the grievance and arbitration procedures set forth in this Agreement.
 
-41||6. The RAB and the Union shall provide affected Employee(s) and the Employee's Employer(s) with a list of mediators who will be available to conduct the mediation. The mediator's fees shall be paid by the RAB and the Union in equal shares. The parties shall be free to use another mediator of the parties' own choosing but in that event shall bear the costs of mediation as they determine.
+41||6. The RAB and the Union shall provide affected Employee(s) and the Employee's Employer(s) with a list of mediators who will be available to conduct the mediation. The mediator's fees shall be paid for by the RAB and the Union in equal shares. The parties shall be free to use another mediator of the parties' own choosing but in that event shall bear the costs of mediation as they determine.
 
 7. The conduct of the mediation shall be confidential and the rules of evidence pertaining to privileges related to settlement discussions shall apply to communications in mediation.
 
 8. Any agreement reached in mediation shall not alter the collective bargaining agreement or affect the contractual rights of employees who are not parties to that agreement.
 
 Article XXXIV – Health, Safety, and HERO Act  
-34.1 The Employer shall continue to provide safe and healthy working conditions.  
-34.2 On May 5, 2021, the New York Health and Essential Rights Act, Senate Bill 1034B (“S1034B”), amending the New York Labor Law to include provisions on prevention of airborne infectious disease, was signed into law. On July 12, 2021, the parties executed a Memorandum of Agreement (“HERO Act MOA”) on this topic. The Parties agreed, and continue to agree, that the HERO Act MOA would apply to the 2020 RAB Commercial Building Agreement, the 2020 Contractors Agreement, the 2018 Apartment Building Agreement, the 2018 Resident Managers and Superintendents Agreement, the 2021 Long Island Apartment Building Agreement, and the 2021 RAB Window Cleaners Agreement (collectively, the “Agreements”). Consistent with the HERO Act MOA, the parties agree to implement the following to ensure a safe and healthy workplace for Industry employees:  
-42||1. In the event the HERO Act is once again triggered, the parties agree Employers agree to adopt an airborne infectious disease exposure prevention plan no later than sixty (60) calendar days from the triggering of the HERO Act, by either adopting the model standard promulgated by the Commissioner of the Department of Labor in consultation with the Department of Health, or by establishing an alternative plan that is comparable to or better than the minimum standards provided by the model standard. The RAB and the Union agree that an Employer’s adoption of the model standard relevant to them shall satisfy that Employer’s obligation to adopt an airborne infectious disease exposure prevention plan. Any Employer seeking to adopt an alternative plan that is comparable to or better than the model plan shall submit such plan to the RAB and the Union at least fourteen (14) days prior to the proposed effective date of such alternative plan, and if neither the RAB nor the Union object to such plan, in writing, within the fourteen (14) day period, such alternative plan will satisfy the Employer’s obligation to adopt an airborne infectious disease exposure prevention plan.
+34.1 The Employer shall continue to provide safe and healthy working conditions.
 
-2. The RAB, Employers, and the Union agree to establish joint labor-management workplace safety committees. The workplace safety committees will be organized by Employer, except where the parties mutually agree that another format is acceptable. The workplace safety committees shall be comprised of Employer representatives, selected in consultation with the RAB, Union representatives, and bargaining unit employee representatives as the Union may designate. The workplace safety committees shall meet as needed, upon the request of either the Employer or the Union, at such times and in such manner as the Employer, RAB and the Union may deem reasonable and proper. Each workplace safety committee so-established, will have the ability, consistent with S1034B, to: (a) raise health and safety concerns, hazards, complaints and violations to the Employer; (b) review any policy or procedures put in  
+34.2 On May 5, 2021, the New York Health and Essential Rights Act, Senate Bill 1034B (“S1034B”), amending the New York Labor Law to include provisions on prevention of airborne infectious disease, was signed into law. On July 12, 2021, the parties executed a Memorandum of Agreement (“HERO Act MOA”) on this topic. The Parties agreed, and continue to agree, that the HERO Act MOA would apply to the 2020 RAB Commercial Building Agreement, the 2020 Contractors Agreement, the 2018 Apartment Building Agreement, the 2018 Long Island Apartment Building Agreement, the 2021 Security Officers Agreement, and the 2021 RAB Window Cleaners Agreement (collectively, the “Agreements”). Consistent with the HERO Act MOA, the parties agree to implement the following to ensure a safe and healthy workplace for Industry employees:
+
+42||1. In the event the HERO Act is once again triggered, the parties agree Employers agree to adopt an airborne infectious disease exposure prevention plan no later than sixty (60) calendar days from the triggering of the HERO Act, by either adopting the model standard promulgated by the Commissioner of the Department of Labor in consultation with the Department of Health, or by establishing an alternative plan that is comparable to or better than the minimum standards provided by the model standard. The RAB and the Union agree that an Employer's adoption of the model standard relevant to them shall satisfy that Employer's obligation to adopt an airborne infectious disease exposure prevention plan. Any Employer seeking to adopt an alternative plan that is comparable to or better than the model plan shall submit such plan to the RAB and the Union at least fourteen (14) days prior to the proposed effective date of such alternative plan, and if neither the RAB nor the Union object to such plan, in writing, within the fourteen (14) day period, such alternative plan will satisfy the Employer's obligation to adopt an airborne infectious disease exposure prevention plan.
+
+2. The RAB, Employers, and the Union agree to establish joint labor-management workplace safety committees. The workplace safety committees will be organized by Employer, except where the parties mutually agree that another format is acceptable. The workplace safety committees shall be comprised of Employer representatives, selected in consultation with the RAB, Union representatives, and bargaining unit employee representatives as the Union may designate. The workplace safety committees shall meet as needed, upon the request of either the Employer or the Union, at such times and in such manner as the Employer, RAB and the Union may deem reasonable and proper. Each workplace safety committee so-established, will have the ability, consistent with S1034B, to: (a) raise health and safety concerns, hazards, complaints and violations to the Employer; (b) review any policy or procedures put in
+
 43||place in the workplace concerning workplace safety; (c) participate in any site visit by any governmental agency responsible for enforcing safety and health standards in a manner consistent with applicable law; (d) review relevant reports filed by the Employer related to the health and safety of the workplace in a manner consistent with applicable law; and (e) discuss training and equipment needs, including personal protective equipment. Meetings shall occur during work hours and shall be scheduled within two (2) weeks of either party requesting the meeting, provided that in the event that there is an urgent health and safety issue or other urgent operational issue in connection with the exposure prevention plan, the parties shall make their best efforts to meet on an expedited basis. Upon agreement by the parties, commonly-owned, commonly-managed buildings that are subject to one of the above-referenced Building Agreements, may form a workplace safety committee that covers all or some of the commonly-owned, commonly-managed buildings. Established workplace safety committees may make reports and recommendations to the Employer, as necessary, concerning the above and other matters covered by S1034B within their responsibility to the Employer as may be appropriate.
 
-3. The RAB, on behalf of its members, and the Union agree that the benefits provided under the Agreements and under this Section and the HERO Act MOA are comparable to or better than those provided under S1034B, enacted under N.Y. Labor Law Sections 27-d and 21B-b, and therefore, pursuant to N.Y. Labor Law § 27-d (7) and N.Y. Labor Law Section 218-b (9), the provisions of S1034B are waived with regard to these parties, and to the extent not precluded by those laws with regard to other parties. The parties further agree that any dispute arising out of or relating to airborne infectious disease exposure prevention, including, without limitation, the implementation of this the HERO Act MOA, shall be resolved through the grievance and
-
-44||arbitration process set forth in this Agreement, as the sole and exclusive process for resolution of such disputes. Any grievance alleging a violation of the Employer’s exposure prevention plan that creates a substantial probability that serious physical harm or death could result from a condition which exists, or from one or more practices, means, methods, operations or processes which have been adopted or are in use, by the Employer at the work site, shall be submitted to expedited arbitration within three (3) business days of an arbitration demand.
+3. The RAB, on behalf of its members, and the Union agree that the benefits provided under the Agreements and under this Section and the HERO Act MOA are comparable to or better than those provided under S1034B, enacted under N.Y. Labor Law Sections 27-d and 21B-b. and therefore, pursuant to N.Y. Labor Law § 27-d (7) and N.Y. Labor Law Section 218-b (9), the provisions of S1034B are waived with regard to these parties, and to the extent not precluded by those laws with regard to other parties. The parties further agree that any dispute arising out of or relating to airborne infectious disease exposure prevention, including, without limitation, the implementation of this HERO Act MOA, shall be resolved through the grievance and 44||arbitration process set forth in this Agreement, as the sole and exclusive process for resolution of such disputes. Any grievance alleging a violation of the Employer’s exposure prevention plan that creates a substantial probability that serious physical harm or death could result from a condition which exists, or from one or more practices, means, methods, operations or processes which have been adopted or are in use, by the Employer at the work site, shall be submitted to expedited arbitration within three (3) business days of an arbitration demand.
 
 4. During the period of time prior to any requirement by the Department of Labor or Department of Health that the Employer implement its exposure prevention plan Employers shall follow the joint guidelines developed by the RAB, Local 32BJ and REBNY, as they may be revised, with respect to personal protective equipment, social distancing and other practices to reduce the risk of COVID-19 exposures and/or transmissions
 
@@ -739,11 +639,11 @@ IN WITNESS WHEREOF, the parties have hereunto set their hands and seals the day 
 
 REALTY ADVISORY BOARD ON LABOR RELATIONS, INC.
 
-By: Howard Rothschild  
+By: Howard Robschild  
 President  
 Dated: 9/8/21
 
-SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 32BJ
+SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 32BJ
 
 By: Manny Pastreich  
 President  
@@ -775,14 +675,15 @@ AGREED:
 Manny Pastreich  
 President, SEIU, Local 32BJ  
 
-47||May 1, 2024
+47||```
+May 1, 2024
 
-Manny Pastreich, President  
-SEIU, Local 32BJ  
-25 West 18th Street  
-New York, NY 10011  
+Manny Pastreich, President
+SEIU, Local 32BJ
+25 West 18th Street
+New York, NY 10011
 
-Re: Reserved Question on Mandatory Arbitration for Statutory Discrimination Claims  
+Re: Reserved Question on Mandatory Arbitration for Statutory Discrimination Claims
 
 Dear Manny:
 
@@ -792,48 +693,46 @@ Following the decision of the Supreme Court in 14 Penn Plaza LLC v. Pyett, 556 U
 
 The Union contends that the CBAs do not make provision for arbitration of any claims that the Union does not choose to take to arbitration, including statutory discrimination claims, and therefore, individual employees are not barred from pursuing their discrimination claims in court where the Union has declined to pursue them in arbitration. The RAB contends that the CBAs require arbitration of all individual claims, even where the Union has declined to bring such claims to arbitration.
 
-The parties agree that, should either the Union or the RAB deem it appropriate or necessary to do so, that party may bring to arbitration the Reserved Question. The parties intend that the Reserved Question may only be resolved in arbitration between them and not in any form of judicial or administrative proceeding. The outcome of the Reserved Question hinges on collective bargaining language and bargaining history, which are subjects properly suited for arbitration. Such arbitration may be commenced on 30 calendar days’ written notice to the other party. The arbitrator for such  
+The parties agree that, should either the Union or the RAB deem it appropriate or necessary to do so, that party may bring to arbitration the Reserved Question. The parties intend that the Reserved Question may only be resolved in arbitration between them and not in any form of judicial or administrative proceeding. The outcome of the Reserved Question hinges on collective bargaining language and bargaining history, which are subjects properly suited for arbitration. Such arbitration may be commenced on 30 calendar days’ written notice to the other party. The arbitrator for such
 
-48||arbitration shall be Roberta Golick, unless she is unable or unwilling to serve, in which case the parties shall agree upon an arbitrator, and failing agreement shall submit the case to arbitration before the American Arbitration Association, in New York City.
+48
+```||arbitration shall be Roberta Golick, unless she is unable or unwilling to serve, in which case the parties shall agree upon an arbitrator, and failing agreement shall submit the case to arbitration before the American Arbitration Association, in New York City.
 
-In 2010, the parties initiated the No-Discrimination Protocol. The No-Discrimination Protocol is applicable to all such claims. This Protocol was intended, and continues, to serve as an alternative to arbitrating the parties' disagreement on the Reserved Question. The parties agreed to include the No-Discrimination Protocol as part of the CBAs, as further modified in December 2015. The Union and the RAB agree that the provisions of the No-Discrimination Protocol do not resolve the Reserved Question. Neither the inclusion of the No-Discrimination Protocol in the CBAs nor the terms of the No-Discrimination Protocol shall be understood to advance either party's contention as to the meaning of the CBAs with regard to the Reserved Question, nor will either party make any representation to the contrary.
+In 2010, the parties initiated the No-Discrimination Protocol. The No-Discrimination Protocol is applicable to all such claims. This Protocol was intended, and continues, to serve as an alternative to arbitrating the parties’ disagreement on the Reserved Question. The parties agreed to include the No-Discrimination Protocol as part of the CBAs, as further modified in December 2015. The Union and the RAB agree that the provisions of the No-Discrimination Protocol do not resolve the Reserved Question. Neither the inclusion of the No-Discrimination Protocol in the CBAs nor the terms of the No-Discrimination Protocol shall be understood to advance either party’s contention as to the meaning of the CBAs with regard to the Reserved Question, nor will either party make any representation to the contrary.
 
-Without prejudice to either party's position on the continued viability of any other side letter, this side letter shall continue in effect unless and until the parties agree otherwise or until the Reserved Question is decided by Arbitrator Golick.
+Without prejudice to either party’s position on the continued viability of any other side letter, this side letter shall continue in effect unless and until the parties agree otherwise or until the Reserved Question is decided by Arbitrator Golick.
 
 Sincerely,
 Howard Rothschild
 President, RAB
 
 AGREED:
-
 Manny Pastreich
 President, SEIU, Local 32BJ
 
-49||```
-May 1, 2024
+49||May 1, 2024
 
-Manny Pastreich, President
-SEIU, Local 32BJ
-25 West 18th Street
-New York, NY 10011
+Manny Pastreich, President  
+SEIU, Local 32BJ  
+25 West 18th Street  
+New York, NY 10011  
 
-Re: Payment Practices for Security Officers Who Call Out Sick on a Holiday
+Re: Payment Practices for Security Officers Who Call Out Sick on a Holiday  
 
 Dear Manny:
 
 This letter shall serve to confirm our understanding that Employers’ existing payment practices for those employees covered under the RAB Security Officers Owners Agreement who call out sick on a holiday shall continue for the duration of 2024 RAB Security Officers Owners Agreement. It is our understanding that the Employers’ use of such existing practices during the duration of the 2024 RAB Security Officers Owners Agreement shall not form the basis of any grievance or other dispute between the parties to the 2024 RAB Security Officers Owners Agreement.
 
-Sincerely,
-Howard Rottschchild
-President, RAB
+Sincerely,  
+Howard Rotschild  
+President, RAB  
 
-AGREED:
+AGREED:  
 
-Manny Pastreich
-President, SEIU, Local 32BJ
+Manny Pastreich  
+President, SEIU, Local 32BJ  
 
-50
-```||```
+50||```
 May 1, 2024
 
 Manny Pastreich, President
@@ -877,7 +776,6 @@ AGREED:
 September 20, 2024  
 Manny Pastreich  
 President, SEIU, Local 32BJ  
-
 52||```
 May 1, 2024
 
@@ -916,7 +814,9 @@ Article XXI (Legal Services) -- The rate of contribution shall be as follows:
 
 Effective May 1, 2024, the Employer shall contribute for all employees who have completed one hundred twenty (120) days of employment.
 
-Effective May 1, 2024, the rate of contribution shall be either $199.60 per year per employee, or $0.11 per employee, per hour paid, up to forty (40) hours per week per employee. For Employers who contribute to the Fund on an hourly basis, contributions shall||```
+Effective May 1, 2024, the rate of contribution shall be either $199.60 per year per employee, or $0.11 per employee, per hour paid, up to forty (40) hours per week per employee. For Employers who contribute to the Fund on an hourly basis, contributions shall
+
+54||```
 commence on the first day of the calendar month during which the employee completes one hundred twenty (120) days of employment.
 
 Effective January 1, 2025, the rate of contribution shall be either $36.00 per year per employee, or $0.02 per employee, per hour paid, up to forty (40) hours per week per employee. For Employers who contribute to the Fund on an hourly basis, contributions shall commence on the first day of the calendar month during which the employee completes one hundred twenty (120) days employment.
@@ -932,6 +832,7 @@ Provided that where an Employer elects to contribute at the hourly rates set for
 Sincerely,
 
 Manny Pastreich
+
 55
 ```||President  
 SEIU Local 32BJ  
@@ -952,7 +853,7 @@ Realty Advisory Board on Labor Relations, Inc.
 One Penn Plaza, Suite 2110
 New York, New York 10119
 
-Re:  2021 RAB Security Officers Owners Agreement
+Re: 2021 RAB Security Officers Owners Agreement
 Contribution Rates for Employees Covered by the
 Suburban Plan of Health Benefits
 
@@ -982,7 +883,7 @@ Agreed:
 ```||Howard Rothschild  
 President  
 Realty Advisory Board on Labor Relations, Inc.  
-Date: 9/8/21  
+Date: 9/8/12  
 58||```
 May 1, 2024
 
