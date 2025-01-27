@@ -35,8 +35,7 @@ class UnionRep:
         self._retriever = self._vector_store.as_retriever(search_kwargs={"k": top_k})
         self._prompt = self._prompt = (
             ChatPromptTemplate.from_template("""You are a helpful assistant that answers questions related to the union contract.
-            Answer the question based on the following context and prior conversation history:
-
+            Answer the question based only on the following context:
             Context:
             {context}
 
@@ -51,7 +50,7 @@ class UnionRep:
             Your response should include:
             - A summary of the answer (`response`)
             - The original text from the context (`source_text`)
-            - The page number for the source text (`page_no`) if available.
+            - The page number for the source text is metadata page_number (`page_no`) if available.
             """)
         )
 
