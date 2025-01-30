@@ -2,6 +2,7 @@
 # TODO: https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/secrets-management
 #  add secret management.  The point is to send a link and the person can use it.
 
+import os
 
 import streamlit as st
 
@@ -9,16 +10,19 @@ from union_rep_assistant.brain import UnionRep
 from union_rep_assistant.ui.validation import is_valid_api_key
 from union_rep_assistant.constants import SECURITY_CONTRACT_PATH
 
-
+openai_api_key = os.getenv("OPENAI_API_KEY")
 # Streamlit Sidebar for API Key
-with st.sidebar:
-    openai_api_key = st.text_input(
-        "OpenAI API Key",
-        key="chatbot_api_key",
-        type="password",
-    )
-    st.markdown("[Get an OpenAI API key](https://platform.openai.com/account/api-keys)")
-# TODO: need to figure out how to add secrets because I want to just pass this chat to charles.
+if not openai_api_key:
+    with st.sidebar:
+        openai_api_key = st.text_input(
+            "OpenAI API Key",
+            key="chatbot_api_key",
+            type="password",
+        )
+        st.markdown(
+            "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
+        )
+    # TODO: need to figure out how to add secrets because I want to just pass this chat to charles.
 
 # Check if API Key is Entered
 if not openai_api_key:
