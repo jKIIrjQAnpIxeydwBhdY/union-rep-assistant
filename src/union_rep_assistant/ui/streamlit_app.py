@@ -3,12 +3,17 @@
 #  add secret management.  The point is to send a link and the person can use it.
 
 import os
+import logging
 
 import streamlit as st
 
 from union_rep_assistant.brain import UnionRep
 from union_rep_assistant.ui.validation import is_valid_api_key
 from union_rep_assistant.constants import SECURITY_CONTRACT_PATH
+
+logging.basicConfig(level=logging.INFO)
+logger = logger = logging.getLogger(__name__)
+
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
 # Streamlit Sidebar for API Key
@@ -59,8 +64,10 @@ if user_input := st.chat_input():
 
     try:
         # Generate Response Using union_rep.ask
+        logger.info("==QUESTION== %s", user_input)
         response = union_rep.ask(user_input)  # Fetch the response from the LLM
         st.session_state.messages.append({"role": "assistant", "content": response})
+        logger.info("==ANSWER== %s", response)
         st.chat_message("assistant").write(response)
     except Exception as e:
         st.error(f"Error: {str(e)}")
